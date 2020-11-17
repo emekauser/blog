@@ -1,7 +1,7 @@
 # Blog
 This is A simple django blog rest API that allows users to create mmany blogs and article attached to the blogs
 
-#API
+# API
 GET /api/v1/blogs/
 POST /api/v1/blogs/ 
 GET /api/v1/blogs/:id/ 
